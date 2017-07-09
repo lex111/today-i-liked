@@ -6,3 +6,6 @@
 
 ### July 3, 2017
 - [Хитрые запросы в MySQL: INSERT IGNORE, ON DUPLICATE KEY UPDATE](http://ekimoff.ru/214/) 
+
+### July 9, 2017
+- [Automated Testing: 6 Open-Source Laravel Projects - Laravel Daily](http://laraveldaily.com/automated-testing-6-open-source-laravel-projects/) 
