@@ -9,3 +9,6 @@
 
 ### July 9, 2017
 - [Automated Testing: 6 Open-Source Laravel Projects - Laravel Daily](http://laraveldaily.com/automated-testing-6-open-source-laravel-projects/) 
+
+### July 11, 2017
+- [Standard ECMA-262](https://www.ecma-international.org/publications/standards/Ecma-262.htm) 
