@@ -12,3 +12,6 @@
 
 ### July 11, 2017
 - [Standard ECMA-262](https://www.ecma-international.org/publications/standards/Ecma-262.htm) 
+
+### July 15, 2017
+- [React Interview Questions](https://tylermcginnis.com/react-interview-questions/?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_77) 
