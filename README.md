@@ -15,3 +15,6 @@
 
 ### July 15, 2017
 - [React Interview Questions](https://tylermcginnis.com/react-interview-questions/?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_77) 
+
+### July 26, 2017 
+- [React Native vs Native in Mobile App Development — Varvet](https://www.varvet.com/blog/react-native-vs-native-in-mobile-app-development/) 
