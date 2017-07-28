@@ -18,3 +18,6 @@
 
 ### July 26, 2017 
 - [React Native vs Native in Mobile App Development — Varvet](https://www.varvet.com/blog/react-native-vs-native-in-mobile-app-development/) 
+
+### July 28, 2017 
+- [Real World React Native Animations - Course by @browniefed @eggheadio](https://egghead.io/courses/real-world-react-native-animations) 
