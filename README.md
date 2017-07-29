@@ -24,3 +24,4 @@
 
 ### July 29, 2017 
 - [Practical Animation Examples in React Native](https://code.tutsplus.com/tutorials/practical-animations-in-react-native--cms-27567) 
+- [React Native’s LayoutAnimation is Awesome – Justin Poliachik – Medium](https://medium.com/@Jpoliachik/react-native-s-layoutanimation-is-awesome-4a4d317afd3e) 
