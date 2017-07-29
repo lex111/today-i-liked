@@ -21,3 +21,6 @@
 
 ### July 28, 2017 
 - [Real World React Native Animations - Course by @browniefed @eggheadio](https://egghead.io/courses/real-world-react-native-animations) 
+
+### July 29, 2017 
+- [Practical Animation Examples in React Native](https://code.tutsplus.com/tutorials/practical-animations-in-react-native--cms-27567) 
