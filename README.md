@@ -30,3 +30,6 @@
 - [React Native Animations Using the Animated API – React Native Training – Medium](https://medium.com/react-native-training/react-native-animations-using-the-animated-api-ebe8e0669fae) 
 - [Повышение производительности React и Redux с Reselect](https://medium.com/devschacht/neil-fenton-improving-react-and-redux-performance-with-reselect-40f1d3efba89) 
 - [Пишем приложение DevSchacht на React Native. Часть 2.](https://medium.com/devschacht/create-devschacht-app-part-2-9fac76563392) 
+
+### August 4, 2017 
+- [Using canvas with React Native – Over Engineering – Medium](https://medium.com/over-engineering/using-canvas-with-react-native-ce147d25ab19) 
