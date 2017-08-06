@@ -33,3 +33,6 @@
 
 ### August 4, 2017 
 - [Using canvas with React Native – Over Engineering – Medium](https://medium.com/over-engineering/using-canvas-with-react-native-ce147d25ab19) 
+
+### August 6, 2017 
+- [Beta Testing React Native Android Applications with Crashlytics](https://medium.com/komenco/beta-testing-your-react-native-android-application-with-crashlytics-483c7e66a423) 
