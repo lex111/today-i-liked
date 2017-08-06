@@ -36,3 +36,4 @@
 
 ### August 6, 2017 
 - [Beta Testing React Native Android Applications with Crashlytics](https://medium.com/komenco/beta-testing-your-react-native-android-application-with-crashlytics-483c7e66a423) 
+- [Publishing React Native App on Android](http://cmichel.io/publishing-react-native-app-on-android/) 
