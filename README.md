@@ -38,3 +38,4 @@
 - [Beta Testing React Native Android Applications with Crashlytics](https://medium.com/komenco/beta-testing-your-react-native-android-application-with-crashlytics-483c7e66a423) 
 - [Publishing React Native App on Android](http://cmichel.io/publishing-react-native-app-on-android/) 
 - [10 Lodash Features You Can Replace with ES6 — SitePoint](https://www.sitepoint.com/lodash-features-replace-es6/) 
+- [Testing React Components with Enzyme and Mocha - Semaphore](https://semaphoreci.com/community/tutorials/testing-react-components-with-enzyme-and-mocha) 
