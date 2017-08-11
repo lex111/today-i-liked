@@ -39,3 +39,6 @@
 - [Publishing React Native App on Android](http://cmichel.io/publishing-react-native-app-on-android/) 
 - [10 Lodash Features You Can Replace with ES6 — SitePoint](https://www.sitepoint.com/lodash-features-replace-es6/) 
 - [Testing React Components with Enzyme and Mocha - Semaphore](https://semaphoreci.com/community/tutorials/testing-react-components-with-enzyme-and-mocha) 
+
+### August 11, 2017 
+- [React Native / JS.coach](https://js.coach/react-native) 
