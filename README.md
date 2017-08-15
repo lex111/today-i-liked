@@ -45,3 +45,6 @@
 
 ### August 12, 2017 
 - [Checklist to Deploy React Native to Production – The React Native Log – Medium](https://medium.com/the-react-native-log/checklist-to-deploy-react-native-to-production-47157f8f85ed) 
+
+### August 15, 2017 
+- [Grid by Example - Usage examples of CSS Grid Layout](https://gridbyexample.com/examples/) 
