@@ -48,3 +48,6 @@
 
 ### August 15, 2017 
 - [Grid by Example - Usage examples of CSS Grid Layout](https://gridbyexample.com/examples/) 
+
+### August 19, 2017 
+- [How to Add a Splash Screen to a React Native App (iOS and Android)](https://medium.com/handlebar-labs/how-to-add-a-splash-screen-to-a-react-native-app-ios-and-android-30a3cec835ae) 
