@@ -51,3 +51,6 @@
 
 ### August 19, 2017 
 - [How to Add a Splash Screen to a React Native App (iOS and Android)](https://medium.com/handlebar-labs/how-to-add-a-splash-screen-to-a-react-native-app-ios-and-android-30a3cec835ae) 
+
+### August 21, 2017 
+- [Popstas](http://blog.popstas.ru/) 
