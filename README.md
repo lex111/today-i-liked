@@ -54,3 +54,6 @@
 
 ### August 21, 2017 
 - [Popstas](http://blog.popstas.ru/) 
+
+### August 23, 2017 
+- [React Native: от простой анимации до интерактивной на скорости 60 FPS / Хабрахабр](https://habrahabr.ru/post/336010/) 
