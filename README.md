@@ -60,3 +60,6 @@
 
 ### August 25, 2017 
 - [5 подводных камней при разработке на React Native – Lowl – Medium](https://medium.com/lowl/5-%D0%BF%D0%BE%D0%B4%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D1%85-%D0%BA%D0%B0%D0%BC%D0%BD%D0%B5%D0%B9-%D0%BF%D1%80%D0%B8-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5-%D0%BD%D0%B0-react-native-dd7c60386280) 
+
+### August 27, 2017 
+- [The making of a floating-label input with React Native's Animated API - Gosha Arinich](https://goshakkk.name/floating-label-input-rn-animated/) 
