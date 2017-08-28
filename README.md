@@ -63,3 +63,6 @@
 
 ### August 27, 2017 
 - [The making of a floating-label input with React Native's Animated API - Gosha Arinich](https://goshakkk.name/floating-label-input-rn-animated/) 
+
+### August 29, 2017 
+- [React-Native: organizing your images – Ben-hur Ott – Medium](https://medium.com/@benhur.ott/react-native-organizing-your-images-aca5ef93424e) 
