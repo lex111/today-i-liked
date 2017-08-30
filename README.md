@@ -66,3 +66,6 @@
 
 ### August 29, 2017 
 - [React-Native: organizing your images – Ben-hur Ott – Medium](https://medium.com/@benhur.ott/react-native-organizing-your-images-aca5ef93424e) 
+
+### August 30, 2017 
+- [React Native Basics: Copy to Clipboard – The React Native Log – Medium](https://medium.com/the-react-native-log/react-native-basics-copy-to-clipboard-86023cda4175) 
