@@ -75,3 +75,6 @@
 
 ### September 9, 2017 
 - [Как объяснить дедушке эджайл и скрам за 5 минут без картинок. И самому лучше понять](https://medium.com/@nbabaeva/%D0%BA%D0%B0%D0%BA-%D0%BE%D0%B1%D1%8A%D1%8F%D1%81%D0%BD%D0%B8%D1%82%D1%8C-%D0%B4%D0%B5%D0%B4%D1%83%D1%88%D0%BA%D0%B5-%D1%8D%D0%B4%D0%B6%D0%B0%D0%B9%D0%BB-%D0%B8-%D1%81%D0%BA%D1%80%D0%B0%D0%BC-%D0%B7%D0%B0-5-%D0%BC%D0%B8%D0%BD%D1%83%D1%82-%D0%B1%D0%B5%D0%B7-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BE%D0%BA-%D0%B8-%D1%81%D0%B0%D0%BC%D0%BE%D0%BC%D1%83-%D0%BB%D1%83%D1%87%D1%88%D0%B5-%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D1%8C-139ba51b5230) 
+
+### September 12, 2017 
+- [Testing in React Native — Jest & Detox – Pillow.codes](https://pillow.codes/testing-in-react-native-jest-detox-d7b3b79a166a) 
