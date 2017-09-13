@@ -78,3 +78,6 @@
 
 ### September 12, 2017 
 - [Testing in React Native — Jest & Detox – Pillow.codes](https://pillow.codes/testing-in-react-native-jest-detox-d7b3b79a166a) 
+
+### September 13, 2017 
+- [How We Built Our React Native App – Engineering @ Housing – Medium](https://medium.com/engineering-housing/how-we-built-our-react-native-app-3380a33811ac) 
