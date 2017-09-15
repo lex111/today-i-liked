@@ -81,3 +81,6 @@
 
 ### September 13, 2017 
 - [How We Built Our React Native App – Engineering @ Housing – Medium](https://medium.com/engineering-housing/how-we-built-our-react-native-app-3380a33811ac) 
+
+### September 15, 2017 
+- [React Native Portrait Device Orientation – React Native Training – Medium](https://medium.com/react-native-training/react-native-portrait-device-orientation-9bcdeeac0b03) 
