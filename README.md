@@ -84,3 +84,6 @@
 
 ### September 15, 2017 
 - [React Native Portrait Device Orientation – React Native Training – Medium](https://medium.com/react-native-training/react-native-portrait-device-orientation-9bcdeeac0b03) 
+
+### September 17, 2017 
+- [Testing in React Native — Jest & Detox – Pillow.codes](https://pillow.codes/testing-in-react-native-jest-detox-d7b3b79a166a) 
