@@ -87,3 +87,6 @@
 
 ### September 17, 2017 
 - [Testing in React Native — Jest & Detox – Pillow.codes](https://pillow.codes/testing-in-react-native-jest-detox-d7b3b79a166a) 
+
+### September 18, 2017 
+- [Horizontal Calendar in React Native | Rational App Development](http://rationalappdev.com/horizontal-calendar-in-react-native/) 
