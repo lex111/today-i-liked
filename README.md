@@ -90,3 +90,6 @@
 
 ### September 18, 2017 
 - [Horizontal Calendar in React Native | Rational App Development](http://rationalappdev.com/horizontal-calendar-in-react-native/) 
+
+### September 21, 2017 
+- [React PureComponent Pitfalls – ShakaCode](https://blog.shakacode.com/react-purecomponent-pitfalls-d057882f4b6e) 
