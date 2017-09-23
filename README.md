@@ -93,3 +93,6 @@
 
 ### September 21, 2017 
 - [React PureComponent Pitfalls – ShakaCode](https://blog.shakacode.com/react-purecomponent-pitfalls-d057882f4b6e) 
+
+### September 23, 2017 
+- [Charts in React Native (Part 1) | Rational App Development](http://rationalappdev.com/charts-in-react-native-part-1/) 
