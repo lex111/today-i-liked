@@ -97,3 +97,6 @@
 ### September 23, 2017 
 - [Charts in React Native (Part 1) | Rational App Development](http://rationalappdev.com/charts-in-react-native-part-1/) 
 - [React Navigation Drawer Tutorial — Part 2 – Red Shift](https://shift.infinite.red/react-navigation-drawer-tutorial-part-2-9c382217ac6b) 
+
+### September 26, 2017 
+- [Typescript or Flow – Product at Home](https://blog.home.ht/typescript-or-flow-79ed88189cd0) 
