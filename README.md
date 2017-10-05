@@ -103,3 +103,6 @@
 
 ### October 3, 2017 
 - [React Native Seed](https://reactnativeseed.com/) 
+
+### October 5, 2017 
+- [The Ultimate Guide to Flexbox — Learning Through Examples](https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676) 
