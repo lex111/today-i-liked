@@ -106,3 +106,6 @@
 
 ### October 5, 2017 
 - [The Ultimate Guide to Flexbox — Learning Through Examples](https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676) 
+
+### October 16, 2017 
+- [React, встроенные функции и производительность / Блог компании RUVDS.com / Хабрахабр](https://habrahabr.ru/company/ruvds/blog/340034/) 
