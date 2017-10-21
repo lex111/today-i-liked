@@ -109,3 +109,6 @@
 
 ### October 16, 2017 
 - [React, встроенные функции и производительность / Блог компании RUVDS.com / Хабрахабр](https://habrahabr.ru/company/ruvds/blog/340034/) 
+
+### October 21, 2017 
+- [Format Code Style with Prettier in React Native – React Native Blog by React Native Coach](https://blog.reactnativecoach.com/format-code-style-with-prettier-in-react-native-1e10e6b7169f) 
