@@ -112,3 +112,6 @@
 
 ### October 21, 2017 
 - [Format Code Style with Prettier in React Native – React Native Blog by React Native Coach](https://blog.reactnativecoach.com/format-code-style-with-prettier-in-react-native-1e10e6b7169f) 
+
+### October 22, 2017 
+- [Deploying a Laravel 5.5 Web App on Ubuntu – George Cameron – Medium](https://medium.com/@grmcameron/deploying-your-laravel-web-app-1faaa66f3302) 
