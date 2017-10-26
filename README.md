@@ -115,3 +115,6 @@
 
 ### October 22, 2017 
 - [Deploying a Laravel 5.5 Web App on Ubuntu – George Cameron – Medium](https://medium.com/@grmcameron/deploying-your-laravel-web-app-1faaa66f3302) 
+
+### October 26, 2017 
+- [Domain Driver Design, little explanation and example](https://jorgearco.com/ddd-with-symfony/) 
