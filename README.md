@@ -118,3 +118,6 @@
 
 ### October 26, 2017 
 - [Domain Driver Design, little explanation and example](https://jorgearco.com/ddd-with-symfony/) 
+
+### October 27, 2017 
+- [А оно мне надо? Как составить резюме, чтоб не получить работу](http://hr-tv.ru/articles/author-opinion/a-ono-mne-nado-kak-sostavit-rezjume-chtob-ne-poluchit-rabotu.html) 
