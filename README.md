@@ -121,3 +121,6 @@
 
 ### October 27, 2017 
 - [А оно мне надо? Как составить резюме, чтоб не получить работу](http://hr-tv.ru/articles/author-opinion/a-ono-mne-nado-kak-sostavit-rezjume-chtob-ne-poluchit-rabotu.html) 
+
+### October 28, 2017 
+- [Веблайнд — рекомендации по разработке сайтов для людей с нарушениями зрения](http://weblind.ru/) 
