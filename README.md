@@ -124,3 +124,4 @@
 
 ### October 28, 2017 
 - [Веблайнд — рекомендации по разработке сайтов для людей с нарушениями зрения](http://weblind.ru/) 
+- [Best Practices for Modern PHP Development](https://www.airpair.com/php/posts/best-practices-for-modern-php-development) 
