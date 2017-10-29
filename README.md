@@ -128,3 +128,4 @@
 
 ### October 29, 2017 
 - [Как мы на React 16 переезжали / Хабрахабр](https://habrahabr.ru/post/339742/) 
+- [Why you should learn Symfony in 2017 – Hacker Noon](https://hackernoon.com/why-you-should-learn-symfony-in-2017-e0cf564f0b21) 
