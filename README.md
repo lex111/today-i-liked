@@ -132,3 +132,4 @@
 - [Symfony and Docker](https://iamcode.guru/symfony-and-docker.html) 
 - [Getting Started with RabbitMQ in Symfony – formapro](https://blog.forma-pro.com/getting-started-with-rabbitmq-in-symfony-cb06e0b674f1) 
 - [A Simple RESTful API Tutorial with Symfony 3 – Andrew Adcock](https://andrewadcock.com/a-simple-restful-api-tutorial-with-symfony-3/) 
+- [A Simple RESTful API Tutorial with Symfony 3 – Andrew Adcock](https://andrewadcock.com/a-simple-restful-api-tutorial-with-symfony-3/) 
