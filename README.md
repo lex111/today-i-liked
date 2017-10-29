@@ -130,3 +130,4 @@
 - [Как мы на React 16 переезжали / Хабрахабр](https://habrahabr.ru/post/339742/) 
 - [Why you should learn Symfony in 2017 – Hacker Noon](https://hackernoon.com/why-you-should-learn-symfony-in-2017-e0cf564f0b21) 
 - [Symfony and Docker](https://iamcode.guru/symfony-and-docker.html) 
+- [Getting Started with RabbitMQ in Symfony – formapro](https://blog.forma-pro.com/getting-started-with-rabbitmq-in-symfony-cb06e0b674f1) 
