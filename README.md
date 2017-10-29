@@ -125,3 +125,6 @@
 ### October 28, 2017 
 - [Веблайнд — рекомендации по разработке сайтов для людей с нарушениями зрения](http://weblind.ru/) 
 - [Best Practices for Modern PHP Development](https://www.airpair.com/php/posts/best-practices-for-modern-php-development) 
+
+### October 29, 2017 
+- [Как мы на React 16 переезжали / Хабрахабр](https://habrahabr.ru/post/339742/) 
