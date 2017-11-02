@@ -139,3 +139,6 @@
 
 ### November 2, 2017 
 - [Лучшие практики кэширования](http://prgssr.ru/development/luchshie-praktiki-keshirovaniya.html) 
+
+### November 3, 2017 
+- [GitHub Octoverse 2017 | Highlights from the last twelve months](https://octoverse.github.com/) 
