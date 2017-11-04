@@ -142,3 +142,6 @@
 
 ### November 3, 2017 
 - [GitHub Octoverse 2017 | Highlights from the last twelve months](https://octoverse.github.com/) 
+
+### November 4, 2017 
+- [Facebook-style swipeable cards with React Native Interactable](https://blog.netcetera.com/facebook-style-swipeable-cards-with-react-native-interactable-c9a034a16ac5) 
