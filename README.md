@@ -148,3 +148,6 @@
 
 ### November 9, 2017 
 - [A Perfect Web Development Setup for your Mac](https://mallinson.ca/osx-web-development/) 
+
+### November 20, 2017 
+- [Жизнь PHP-разработчика / Блог компании Web-payment.ru / Хабрахабр](https://habrahabr.ru/company/web_payment_ru/blog/271359/) 
