@@ -151,3 +151,6 @@
 
 ### November 20, 2017 
 - [Жизнь PHP-разработчика / Блог компании Web-payment.ru / Хабрахабр](https://habrahabr.ru/company/web_payment_ru/blog/271359/) 
+
+### November 23, 2017 
+- [How to Read Big Files with PHP (Without Killing Your Server) — SitePoint](https://www.sitepoint.com/performant-reading-big-files-php/) 
