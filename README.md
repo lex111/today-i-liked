@@ -154,3 +154,6 @@
 
 ### November 23, 2017 
 - [How to Read Big Files with PHP (Without Killing Your Server) — SitePoint](https://www.sitepoint.com/performant-reading-big-files-php/) 
+
+### November 25, 2017 
+- [The Twelve-Factor App (Русский перевод)](https://12factor.net/ru/) 
