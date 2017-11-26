@@ -160,3 +160,4 @@
 
 ### November 26, 2017 
 - [Where to get PHP certification? | PHP.earth](https://php.earth/docs/general/certification) 
+- [Where can you get an elephpant, the PHP elephant ? - Exakat](https://www.exakat.io/where-can-you-get-an-elephpant-php-elephant/) 
