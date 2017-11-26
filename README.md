@@ -157,3 +157,6 @@
 
 ### November 25, 2017 
 - [The Twelve-Factor App (Русский перевод)](https://12factor.net/ru/) 
+
+### November 26, 2017 
+- [Where to get PHP certification? | PHP.earth](https://php.earth/docs/general/certification) 
