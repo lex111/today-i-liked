@@ -164,3 +164,6 @@
 
 ### November 29, 2017 
 - [Home | PhpStorm Tips](http://phpstorm.tips/) 
+
+### December 2, 2017 
+- [ENGLISH PAGE - Irregular Verbs](https://www.englishpage.com/irregularverbs/irregularverbs.html) 
