@@ -167,3 +167,6 @@
 
 ### December 2, 2017 
 - [ENGLISH PAGE - Irregular Verbs](https://www.englishpage.com/irregularverbs/irregularverbs.html) 
+
+### December 4, 2017 
+- [XSS Filter Evasion Cheat Sheet - OWASP](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet) 
