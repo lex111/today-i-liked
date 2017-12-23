@@ -170,3 +170,6 @@
 
 ### December 4, 2017 
 - [XSS Filter Evasion Cheat Sheet - OWASP](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet) 
+
+### December 23, 2017 
+- [Плюсы и минусы платформ React Native и Real Native: сравниваем приложения | DOU](https://dou.ua/lenta/articles/react-vs-real/?from=comment-digest_post&utm_source=transactional&utm_medium=email&utm_campaign=digest-comments) 
